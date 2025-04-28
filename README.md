@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there,
 
 I'm a **Test Automation Engineer** passionate about building **robust**, **scalable** automation frameworks and continuously improving software quality.
 
@@ -17,7 +17,6 @@ I'm a **Test Automation Engineer** passionate about building **robust**, **scala
 ![RestSharp](https://img.shields.io/badge/RestSharp-CC0000?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
