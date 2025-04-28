@@ -42,7 +42,7 @@ I'm a **Test Automation Engineer** passionate about building robust and scalable
   API testing framework built with C#, showcasing structured test cases and data-driven testing.
 
 - **[Haydo](https://github.com/furkaneraslan1/Haydo)**  
-  A speech-to-text Discord bot, forked and customized for voice moderation in channels.
+  A side project: Detecting inappropriate language in Discord voice channels and automating moderation.
 
 ---
 
