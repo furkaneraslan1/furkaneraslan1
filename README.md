@@ -19,6 +19,7 @@ I'm a **Test Automation Engineer** with hands-on experience in building scalable
 ![RestSharp](https://img.shields.io/badge/RestSharp-CC0000?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenide](https://img.shields.io/badge/Selenide-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FD5B35?style=for-the-badge&logo=testng&logoColor=white)
 
 **DevOps & Cloud**  
