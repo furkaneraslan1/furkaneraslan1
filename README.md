@@ -1,9 +1,3 @@
-# Hi there, I'm Furkan Eraslan 🫡
-
-I'm a **Test Automation Engineer** with hands-on experience in building scalable test frameworks, improving CI/CD pipelines, and supporting delivery teams with automation, quality, and operational excellence.
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**  
